@@ -1,5 +1,7 @@
 # 🎮 Gaple Domino Game
 
+<!-- Version 0.1.1 - Fixed Vercel deployment -->
+
 A complete 4-player Gaple (Domino) game built with Next.js, Tailwind CSS, and Zustand. Features AI opponents, smooth animations, and a beautiful UI inspired by Higgs Domino Island.
 
 ## 🚀 Live Demo

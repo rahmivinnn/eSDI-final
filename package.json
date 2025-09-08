@@ -1,6 +1,6 @@
 {
   "name": "gaple-domino-game",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "description": "A 4-player Gaple (Domino) game built with Next.js",
   "keywords": ["domino", "game", "nextjs", "react", "multiplayer"],
