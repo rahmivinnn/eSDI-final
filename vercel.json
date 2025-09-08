@@ -9,5 +9,14 @@
     "app/**": {
       "maxDuration": 10
     }
+  },
+  "github": {
+    "autoAlias": true,
+    "autoJobCancelation": true
+  },
+  "build": {
+    "env": {
+      "NODE_ENV": "production"
+    }
   }
 }
