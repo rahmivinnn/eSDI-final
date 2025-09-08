@@ -39,7 +39,7 @@ export default function GameTable() {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'url(/image/background.png)'
+          backgroundImage: 'url(/background.png)'
         }}
       />
       

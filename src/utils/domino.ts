@@ -87,10 +87,10 @@ export const calculatePipSum = (hand: DominoTile[]): number => {
 
 // Get tile image path
 export const getTileImagePath = (tile: DominoTile): string => {
-  return `/image/domino_${tile.left}_${tile.right}.png`;
+  return `/domino_${tile.left}_${tile.right}.png`;
 };
 
 // Get tile back image path
 export const getTileBackPath = (): string => {
-  return `/image/domino_0_0.png`; // Using a tile as back, could be any tile
+  return `/domino_0_0.png`; // Using a tile as back, could be any tile
 };
