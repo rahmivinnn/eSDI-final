@@ -34,4 +34,6 @@ export interface GameActions {
   restartGame: () => void;
   updateTimer: () => void;
   setCurrentPlayer: (playerIndex: number) => void;
+  startTurnTimer: () => void;
+  makeAIMove: (playerIndex: number) => void;
 }
